@@ -28,3 +28,4 @@ Como paso final, debemos de activar el plugin para que el mismo quede activo.
 
 ### Configuración
 
+Continua
