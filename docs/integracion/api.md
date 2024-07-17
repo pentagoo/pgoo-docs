@@ -4,13 +4,14 @@ sidebar_position: 2
 
 # API
 
+<code>POST</code> <code><b>https://api.pentagoo.com/api/payment/create</b></code> <code>(crea un nuevo pago)</code>
 
 ##### Header
 
 > | nombre            |  tipo     | tipo de datos      | descripcion                     |
 > |-------------------|-----------|----------------|-------------------------------------|
-> | `Content-Type`    |  required | string         | application/json                    |
-> | `OAuth`           |  required | string         | {integrationKey}:{integrationSecret}|
+> | `Content-Type`    |  required | string         | `application/json`                    |
+> | `OAuth`           |  required | string         | `integrationKey:integrationSecret`    |
 
 ##### Parameters
 
