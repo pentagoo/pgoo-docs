@@ -31,7 +31,7 @@ Este servicio debe ser invocado para generar un nuevo pago
 > | `400`         | `application/json`                | `{"code":"400","message":"Bad Request"}`                            |
 
 
-<code>POST</code> <code><b>https:///{sitio_api_empresa}//{servicio}</b></code> <code>(servicio de la empresa que se invocara al procesar un pago)</code>
+<code>POST</code> <code><b>https://sitio_api_empresa/servicio</b></code> <code>(servicio de la empresa que se invocara al procesar un pago)</code>
 
 Este servicio se debera implementar desde el lado de la compania, el cual pentagoo invocara luego de procesar un pago
 
