@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Contratos Inteligentes (Smart Contracts)
+# Contratos Inteligentes
 
 Un contrato inteligente es un código de programación que se almacena en una cadena de bloques y se ejecuta automáticamente cuando se cumplen las condiciones especificadas en el contrato. Este tipo de contrato permite realizar transacciones y acuerdos de manera confiable sin la necesidad de un sistema centralizado o de intermediarios. Las reglas y sanciones del acuerdo están codificadas en el propio contrato, y el cumplimiento de las mismas es verificado por la red blockchain.
 
