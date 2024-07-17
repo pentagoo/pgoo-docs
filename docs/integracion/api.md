@@ -19,7 +19,8 @@ Este servicio debe ser invocado para generar un nuevo pago
 
 > | nombre              |  tipo   | tipo de datos      | descripción                     |
 > |-------------------|-----------|----------------|-------------------------------------|
-> | `refId`           |  required | string         | Un identificador único para la orden.  Este campo es utilizado para correlacionar el pago con un pedido específico en su sistema.|
+> | `refId`           |  required | string         | Un identificador único para la orden.
+> Este campo es utilizado para correlacionar el pago con un pedido específico en su sistema.|
 > | `description`     |  required | string         | Una breve descripción del pago o la transacción.  Esto puede incluir información relevante como el concepto del pago o detalles del servicio/producto.|
 > | `amount`          |  required | string         | La cantidad total a pagar en la transacción. (por ejemplo, 100.00 USD).|
 
