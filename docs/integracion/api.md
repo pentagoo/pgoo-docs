@@ -44,5 +44,5 @@ Este servicio se debera implementar desde el lado de la compania, el cual pentag
 | `blockchain`| string        | La red blockchain en la que se está procesando el pago (por ejemplo, Binance Smart Chain, Ethereum).|
 | `hash`      | string        | El hash de la transacción en la blockchain. Este es un identificador único que se puede utilizar para verificar la transacción en la red blockchain correspondiente.|
 | `paymentId` | string        | El identificador único del pago generado por Pentagoo. Este ID se utiliza para rastrear y gestionar la transacción dentro del sistema de Pentagoo.|
-| `orderId`   | string        | El identificador único de la orden o transacción en tu sistema. Este campo permite correlacionar el pago con una orden específica en tu base de datos.|
+| `orderId`   | string        | El identificador único de la orden o transacción en su sistema. Este campo permite correlacionar el pago con una orden específica en su base de datos.|
 
