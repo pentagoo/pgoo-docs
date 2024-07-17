@@ -1,4 +1,8 @@
-# INTRODUCCIÓN
+---
+sidebar_position: 1
+---
+
+# Introducción
 
 Pentagoo es una innovadora empresa dedicada a proporcionar soluciones de pagos en criptomonedas a través de su avanzada tecnología de "acquiring as a service" para procesadores de pagos. Nuestro propósito principal es permitir a los usuarios finales (compradores) realizar pagos con criptomonedas sin la necesidad de convertirlas a dólares, eliminando así las complicaciones y los costos asociados a los intermediarios.
 
