@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Cadena de Bloques (Blockchain)
 
 La cadena de bloques es una base de datos distribuida y descentralizada que registra transacciones en bloques interconectados mediante técnicas criptográficas. Cada bloque contiene un conjunto de transacciones, un sello temporal y un enlace al bloque anterior, formando una cadena continua y segura. Esta estructura asegura la integridad y la inmutabilidad de los datos, ya que una vez que un bloque es añadido a la cadena, no puede ser alterado sin modificar todos los bloques subsecuentes, lo cual es prácticamente imposible de realizar.
