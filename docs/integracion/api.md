@@ -2,7 +2,11 @@
 sidebar_position: 2
 ---
 
-# API
+# API Pentagoo
+
+Nuestra API permite a los gateways y plataformas integrar pagos con criptomonedas de manera fácil y segura. A través de esta API, pueden crear pagos, gestionar transacciones y obtener información detallada sobre los mismos.
+
+## Crear un nuevo pago
 
 `POST` **`https://api.pentagoo.com/api/payment/create`** (Crear un nuevo pago)
 
@@ -32,9 +36,11 @@ Este endpoint se utiliza para generar un nuevo pago.
 
 ---
 
-`POST` **`https://sitio_api_empresa/servicio`** (Servicio de la empresa invocado al procesar un pago)
+## Servicio de la empresa invocado al procesar un pago
 
-Este endpoint debe ser implementado por parte del cliente y será invocado por Pentagoo luego de procesar un pago.
+`POST` **`https://sitio_api_empresa/servicio`** (Servicio de la empresa que se invocará al procesar un pago)
+
+Este endpoint debe ser implementado por su compañía y será invocado por Pentagoo luego de procesar un pago.
 
 ### Parámetros
 
@@ -46,4 +52,3 @@ Este endpoint debe ser implementado por parte del cliente y será invocado por P
 > | `hash`      | String        | Hash de la transacción en la blockchain, un identificador único para verificar la transacción en la red correspondiente. |
 > | `paymentId` | String        | Identificador único del pago generado por Pentagoo, usado para rastrear y gestionar la transacción. |
 > | `orderId`   | String        | Identificador único de la orden o transacción en su sistema, permitiendo correlacionar el pago con una orden específica en su base de datos. |
-
