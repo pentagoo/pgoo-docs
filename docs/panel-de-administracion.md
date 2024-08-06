@@ -17,7 +17,7 @@ En esta sección se muestra una lista de todas las integraciones existentes con 
   - **Secret**: Clave secreta utilizada para autenticar las solicitudes API.
 - **Empresa**: Nombre de la empresa asociada a la integración.
 
-![Integración](https://github.com/pentagoo/pgoo-docs/blob/76d5e94350cace3c2ee49f15fd9677f1c55ab6fe/src/panel.png))
+![Integración](https://github.com/pentagoo/pgoo-docs/blob/76d5e94350cace3c2ee49f15fd9677f1c55ab6fe/src/panel.png)
 
 ### Añadir una Nueva Integración
 
