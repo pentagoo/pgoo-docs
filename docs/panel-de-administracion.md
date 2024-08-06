@@ -17,7 +17,7 @@ En esta sección se muestra una lista de todas las integraciones existentes con 
   - **Secret**: Clave secreta utilizada para autenticar las solicitudes API.
 - **Empresa**: Nombre de la empresa asociada a la integración.
 
-![Integraciones](Imagen)
+!(Imagen)
 
 ### Añadir una Nueva Integración
 
