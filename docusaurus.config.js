@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Pentagoo",
-  tagline: "Dinosaurs are cool",
+  tagline: "Procesa pagos en criptomonedas de forma segura y eficiente",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -71,7 +71,11 @@ const config = {
             position: "left",
             label: "Documentación",
           },
-
+          {
+            href: "https://pentagoo.com",
+            label: "Pentagoo",
+            position: "right",
+          },
           {
             href: "https://github.com/pentagoo",
             label: "GitHub",

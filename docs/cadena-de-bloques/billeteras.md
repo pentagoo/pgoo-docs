@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: Billeteras
+---
+
 ### Configuración de Binance Smart Chain Testnet en MetaMask
 
 Para integrar Binance Smart Chain Testnet en MetaMask y utilizarla en tu integración con Pentagoo, sigue estos pasos:
